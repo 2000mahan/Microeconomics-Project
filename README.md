@@ -4,7 +4,7 @@ It is the final project of AUT Microeconomics course.
 
 > Semester: Fall 2022
 
-> Computer Eng. Dept., Amirkabir University of Tech
+> Computer Engineering Department of Amirkabir University of Technology (Tehran Polytechnic)
 
 ## 👥Collaborators
 
