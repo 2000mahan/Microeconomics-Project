@@ -12,3 +12,4 @@ It is the final project of AUT Microeconomics course.
 
 - [Mahan Ahmadvand](https://github.com/2000mahan)
 
+## 🗺Analysis
