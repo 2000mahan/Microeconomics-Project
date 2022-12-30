@@ -13,4 +13,4 @@ It is the final project of AUT Microeconomics course.
 - [Mahan Ahmadvand](https://github.com/2000mahan)
 
 
-![alt text](https://github.com/[2000mahan]/[Microeconomics-Project]/blob/[master]/image.jpg?raw=true)
+![alt text](https://drive.google.com/file/d/1liuhdsO6BvlummMmyCGFovDFgf-r4ub8/view?usp=share_link)
