@@ -12,6 +12,9 @@ It is the final project of AUT Microeconomics course.
 
 - [Mahan Ahmadvand](https://github.com/2000mahan)
 
+![alt text](./Images/Subject.gif)
+
+
 ## 😷Track the Spread of Coronavirus Around the World 
 ![alt text](./Images/9.gif)
 ![alt text](./Images/10.gif)
