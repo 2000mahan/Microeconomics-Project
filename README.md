@@ -2,7 +2,7 @@
 It is the final project of AUT Microeconomics course.
 > Instructor: [Dr. Fatemeh Salimi Namin](https://sites.google.com/view/fatemehsaliminamin?pli=1)
 > Semester: Fall 2022
-> Computer Eng. Dept., Amirkabir University of Tech.
+> Computer Eng. Dept., Amirkabir University of Tech
 
 ## 👥Collaborators
 
