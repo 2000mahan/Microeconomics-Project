@@ -35,3 +35,9 @@ It is the final project of AUT Microeconomics course.
 ![alt text](./Images/7.png)
 
 ![alt text](./Images/8.png)
+
+## Inequality and Globalization 
+
+![alt text](./Images/11.png)
+
+![alt text](./Images/12.png)
