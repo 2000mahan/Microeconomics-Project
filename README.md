@@ -44,9 +44,10 @@ It is the final project of AUT Microeconomics course.
 
 ## Presentation Links
 
-- [Aparat](https://www.aparat.com/v/UJKB4)
+- [Aparat - Part1](https://www.aparat.com/v/UJKB4)
+- [Aparat - Part2](https://www.aparat.com/v/UJKB4)
+- [Aparat - Part3](https://www.aparat.com/v/UJKB4)
 - [Google Drive](https://drive.google.com/drive/folders/10FWXs_WYAQJAGX8sNJnKBR5DEZY_3ltK?usp=sharing)
-- [YouTube]()
 
 ## References
 - https://www.unwomen.org/en/hq-complex-page/covid-19-rebuilding-for-resilience/employment-poverty?gclid=Cj0KCQiA45qdBhD-ARIsAOHbVdEqX0URHL2DK7FafcOaU3-vdt8fQstRL-fzMYvD_Ir4nywW4Cbpse0aAutnEALw_wcB
