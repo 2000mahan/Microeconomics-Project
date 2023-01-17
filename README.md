@@ -44,9 +44,9 @@ It is the final project of AUT Microeconomics course.
 
 ## Presentation Links
 
-- [Aparat - Part1](https://www.aparat.com/v/UJKB4)
-- [Aparat - Part2](https://www.aparat.com/v/UJKB4)
-- [Aparat - Part3](https://www.aparat.com/v/UJKB4)
+- [Aparat - Part1](https://www.aparat.com/v/qXk8H)
+- [Aparat - Part2](https://www.aparat.com/v/TYdmz)
+- [Aparat - Part3](https://www.aparat.com/v/thcQf)
 - [Google Drive](https://drive.google.com/drive/folders/10FWXs_WYAQJAGX8sNJnKBR5DEZY_3ltK?usp=sharing)
 
 ## References
